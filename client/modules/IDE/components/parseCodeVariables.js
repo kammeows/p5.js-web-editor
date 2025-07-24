@@ -212,7 +212,6 @@ function _parseCodeVariables(_cm) {
   };
 
   lastValidResult = result;
-  console.log('result=', result);
   return result;
 }
 
